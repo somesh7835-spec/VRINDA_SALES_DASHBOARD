@@ -1,4 +1,4 @@
-**Vrinda Store Sales Analysis (Excel Dashboard Project)**
+**Vrinda Store Sales Analysis (Excel Dashboard Project)**.
 ---------------  Project Overview --------------
 
 This project focuses on analyzing Vrinda Store sales data using Excel to generate meaningful business insights.
@@ -37,7 +37,7 @@ To improve sales performance:
 2. Focus on top-performing states.
 3. Run ads/offers on Amazon, Flipkart, Myntra.
 
----- Tools & Skills Used -----
+---- Tools & Skills Used -----.
 1.Microsoft Excel.
 2.Pivot Tables.
 3.Pivot Charts.
@@ -48,16 +48,16 @@ To improve sales performance:
 ----------- Dashboard Preview -----------
 
 <img width="1269" height="498" alt="image" src="https://github.com/user-attachments/assets/a085cedf-7156-44b5-8e96-12421415ebc6" />
+.
 
-
-🚀 How to Use
-Download the Excel file , 
-Explore the dashboard , 
-Use filters/slicers to analyze data , 
+🚀 How to Use --------
+1. Download the Excel file . 
+2. Explore the dashboard .
+3. Use filters/slicers to analyze data . 
 ----------- Learnings ----------- 
-Data cleaning and transformation , 
-Creating interactive dashboards , 
-Extracting business insights from raw data , 
+1. Data cleaning and transformation . 
+2. Creating interactive dashboards .
+3. Extracting business insights from raw data . 
 
 Contact
 
