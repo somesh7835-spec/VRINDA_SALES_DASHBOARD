@@ -14,48 +14,50 @@ To analyze sales data and answer key business questions that help in:
 4. Increasing overall sales.
 
 --- Business Questions---
-Compare the sales and orders using a single chart
-Which month got the highest sales and orders?
-Who purchased more – men or women in 2022?
-What are the different order statuses in 2022?
-List the top 10 states contributing to sales
-What is the relation between age and gender based on number of orders?
-Which channel is contributing to maximum sales?
-What is the highest selling category?
+1. Compare the sales and orders using a single chart
+2. Which month got the highest sales and orders?
+3. Who purchased more – men or women in 2022?
+4. What are the different order statuses in 2022?
+5. List the top 10 states contributing to sales
+6. What is the relation between age and gender based on number of orders?
+7. Which channel is contributing to maximum sales?
+8. What is the highest selling category?
 
-📈 Key Insights
-Women customers contribute around 65% of total sales
-Top states: Maharashtra, Karnataka, Uttar Pradesh
-Age group 30–49 years contributes ~50% of sales
-Major sales channels: Amazon, Flipkart, Myntra (~80%)
-💡 Final Conclusion
+ ----- Key Insights -----
+1. Women customers contribute around 65% of total sales.
+2. Top states: Maharashtra, Karnataka, Uttar Pradesh.
+3. Age group 30–49 years contributes ~50% of sales.
+4. Major sales channels: Amazon, Flipkart, Myntra (~80%).
+
+------- Final Conclusion ----------
 
 To improve sales performance:
 
-Target women customers (30–49 age group)
-Focus on top-performing states
-Run ads/offers on Amazon, Flipkart, Myntra
+1. Target women customers (30–49 age group).
+2. Focus on top-performing states.
+3. Run ads/offers on Amazon, Flipkart, Myntra.
 
-Tools & Skills Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Data Cleaning
-Data Visualization
-Dashboard Design
+---- Tools & Skills Used -----
+1.Microsoft Excel.
+2.Pivot Tables.
+3.Pivot Charts.
+4.Data Cleaning.
+5.Data Visualization.
+6.Dashboard Design.
 
-Dashboard Preview
+----------- Dashboard Preview -----------
 
-(Add your dashboard screenshot here)
+<img width="1269" height="498" alt="image" src="https://github.com/user-attachments/assets/a085cedf-7156-44b5-8e96-12421415ebc6" />
+
 
 🚀 How to Use
-Download the Excel file
-Explore the dashboard
-Use filters/slicers to analyze data
-📌 Learnings
-Data cleaning and transformation
-Creating interactive dashboards
-Extracting business insights from raw data
+Download the Excel file , 
+Explore the dashboard , 
+Use filters/slicers to analyze data , 
+----------- Learnings ----------- 
+Data cleaning and transformation , 
+Creating interactive dashboards , 
+Extracting business insights from raw data , 
 
 Contact
 
