@@ -1,64 +1,77 @@
-**Vrinda Store Sales Analysis (Excel Dashboard Project)**.
----------------  Project Overview --------------
+<h1 align="center">📊 Vrinda Store Sales Analysis (Excel Dashboard Project)</h1>
 
+<h2>📌 Project Overview</h2>
+<p>
 This project focuses on analyzing Vrinda Store sales data using Excel to generate meaningful business insights.
 The goal is to understand customer behavior, sales trends, and identify opportunities to improve revenue.
+</p>
 
---- Objective ---
+<h2>🎯 Objective</h2>
+<p>To analyze sales data and answer key business questions that help in:</p>
+<ul>
+  <li>Identifying top-performing regions</li>
+  <li>Understanding customer demographics</li>
+  <li>Improving marketing strategy</li>
+  <li>Increasing overall sales</li>
+</ul>
 
-To analyze sales data and answer key business questions that help in:
+<h2>📊 Business Questions</h2>
+<ol>
+  <li>Compare the sales and orders using a single chart</li>
+  <li>Which month got the highest sales and orders?</li>
+  <li>Who purchased more – men or women in 2022?</li>
+  <li>What are the different order statuses in 2022?</li>
+  <li>List the top 10 states contributing to sales</li>
+  <li>What is the relation between age and gender based on number of orders?</li>
+  <li>Which channel is contributing to maximum sales?</li>
+  <li>What is the highest selling category?</li>
+</ol>
 
-1. Identifying top-performing regions.
-2. Understanding customer demographics.
-3. Improving marketing strategy.
-4. Increasing overall sales.
+<h2>🔍 Key Insights</h2>
+<ul>
+  <li>Women customers contribute around <b>65%</b> of total sales</li>
+  <li>Top states: Maharashtra, Karnataka, Uttar Pradesh</li>
+  <li>Age group 30–49 years contributes around <b>50%</b> of sales</li>
+  <li>Major sales channels: Amazon, Flipkart, Myntra (~80%)</li>
+</ul>
 
---- Business Questions---
-1. Compare the sales and orders using a single chart
-2. Which month got the highest sales and orders?
-3. Who purchased more – men or women in 2022?
-4. What are the different order statuses in 2022?
-5. List the top 10 states contributing to sales
-6. What is the relation between age and gender based on number of orders?
-7. Which channel is contributing to maximum sales?
-8. What is the highest selling category?
+<h2>📈 Final Conclusion</h2>
+<ul>
+  <li>Target women customers (30–49 age group)</li>
+  <li>Focus on top-performing states</li>
+  <li>Run ads/offers on Amazon, Flipkart, Myntra</li>
+</ul>
 
- ----- Key Insights -----
-1. Women customers contribute around 65% of total sales.
-2. Top states: Maharashtra, Karnataka, Uttar Pradesh.
-3. Age group 30–49 years contributes ~50% of sales.
-4. Major sales channels: Amazon, Flipkart, Myntra (~80%).
+<h2>🛠 Tools & Skills Used</h2>
+<ul>
+  <li>Microsoft Excel</li>
+  <li>Pivot Tables</li>
+  <li>Pivot Charts</li>
+  <li>Data Cleaning</li>
+  <li>Data Visualization</li>
+  <li>Dashboard Design</li>
+</ul>
 
-------- Final Conclusion ----------
+<h2>📸 Dashboard Preview</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a085cedf-7156-44b5-8e96-12421415ebc6" width="800"/>
+</p>
 
-To improve sales performance:
+<h2>🚀 How to Use</h2>
+<ol>
+  <li>Download the Excel file</li>
+  <li>Explore the dashboard</li>
+  <li>Use filters/slicers to analyze data</li>
+</ol>
 
-1. Target women customers (30–49 age group).
-2. Focus on top-performing states.
-3. Run ads/offers on Amazon, Flipkart, Myntra.
+<h2>📚 Learnings</h2>
+<ul>
+  <li>Data cleaning and transformation</li>
+  <li>Creating interactive dashboards</li>
+  <li>Extracting business insights from raw data</li>
+</ul>
 
----- Tools & Skills Used -----.
-1.Microsoft Excel.
-2.Pivot Tables.
-3.Pivot Charts.
-4.Data Cleaning.
-5.Data Visualization.
-6.Dashboard Design.
-
------------ Dashboard Preview -----------
-
-<img width="1269" height="498" alt="image" src="https://github.com/user-attachments/assets/a085cedf-7156-44b5-8e96-12421415ebc6" />
-.
-
-🚀 How to Use --------
-1. Download the Excel file . 
-2. Explore the dashboard .
-3. Use filters/slicers to analyze data . 
------------ Learnings ----------- 
-1. Data cleaning and transformation . 
-2. Creating interactive dashboards .
-3. Extracting business insights from raw data . 
-
-Contact
-
+<h2>📬 Contact</h2>
+<p>
 If you have any feedback or suggestions, feel free to connect!
+</p>
