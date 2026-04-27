@@ -1,5 +1,5 @@
-Vrinda Store Sales Analysis (Excel Dashboard Project)
-**Project Overview**
+**Vrinda Store Sales Analysis (Excel Dashboard Project)**
+---------------  Project Overview --------------
 
 This project focuses on analyzing Vrinda Store sales data using Excel to generate meaningful business insights.
 The goal is to understand customer behavior, sales trends, and identify opportunities to improve revenue.
@@ -8,10 +8,10 @@ The goal is to understand customer behavior, sales trends, and identify opportun
 
 To analyze sales data and answer key business questions that help in:
 
-Identifying top-performing regions
-Understanding customer demographics
-Improving marketing strategy
-Increasing overall sales
+1. Identifying top-performing regions.
+2. Understanding customer demographics.
+3. Improving marketing strategy.
+4. Increasing overall sales.
 
 --- Business Questions---
 Compare the sales and orders using a single chart
